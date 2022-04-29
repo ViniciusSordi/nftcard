@@ -103,6 +103,8 @@ h2:hover {
 
 .autor {
     color: var(--cor4);
+    vertical-align: top;
+    padding-left: 20px;
 }
 
 .nome {
